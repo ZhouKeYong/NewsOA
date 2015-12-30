@@ -13,7 +13,10 @@
 
 - (void)awakeFromNib {
 
-    // Initialization code
+
+    NSLog(@"新测试");
+    
+    
 }
 
 -(void)setData:(NSArray *)data{
