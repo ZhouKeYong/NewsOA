@@ -46,6 +46,7 @@
     selet = YES;
     [_tableView registerClass:[excelCell class] forCellReuseIdentifier:cellID];
     
+    NSLog(@"hello world!");
 
 }
 #pragma mark - Table view data source
